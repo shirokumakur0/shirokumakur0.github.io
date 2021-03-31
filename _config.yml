@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mitsuaki Obara"
 title_separator          : "-"
 name                     : &name "Mitsuaki Obara"
-description              : &description "Graduate student at the University of Tokyo"
+description              : &description " student at the University of Tokyo"
 url                      : https://shirokumakur0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shirokumakur0/shirokumakur0.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mitsuaki Obara"
   avatar           : "IMG_1069.jpg"
-  bio              : "Graduate student at the University of Tokyo"
+  bio              : "Ph.D. student at the University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mitsuaki-obara/"
+  linkedin         : "https://www.linkedin.com/in/mitsuaki-obara"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
