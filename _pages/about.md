@@ -18,7 +18,8 @@ mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 
 Recent News
 ========
-- Apr. 2021: I have started my Ph.D. program at UTokyo. I also work as a JSPS research fellow.
+- May. 2021: [My research is featured on RIISE, UTokyo.](https://www.riise.u-tokyo.ac.jp/news-vxe-interview-obara/)
+- Apr. 2021: [I have started my Ph.D. program at UTokyo.](https://www.or.mist.i.u-tokyo.ac.jp/members/) [I also work as a JSPS research fellow.](https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf)
 - Nov. 2020: [A research proposal has been selected for a sprouting research in value exchange engineering from RIISE, UTokyo](https://www.riise.u-tokyo.ac.jp/projects/vxe/).
 - Sep. 2020: [A new preprint is available on arXiv](https://arxiv.org/abs/2009.07153).
 - Mar. 2020: I opened this website.
