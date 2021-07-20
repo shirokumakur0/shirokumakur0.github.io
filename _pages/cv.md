@@ -39,7 +39,7 @@ Teaching
 Awards
 ======
 - Academic award
-  - Sep. 2021: Student thesis award, operations research society of Japan
+  <!-- - Sep. 2021: Student thesis award, operations research society of Japan -->
   - Jul. 2017: Best paper award, the third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems
 - Grants and fellowships
   - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science
