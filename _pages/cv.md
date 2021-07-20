@@ -32,14 +32,15 @@ Work Experience
   
 Teaching
 ======
-<!-- * Apr. 2021 -- : Advanced core in linear algebra teaching assistant, the University of Tokyo -->
+* Apr. 2021 -- : Advanced core in linear algebra teaching assistant, the University of Tokyo
 * Sep. 2019 -- Mar. 2020: Mathematics 1D (ODE, vector analysis, and variational analysis) teaching assistant, the University of Tokyo
 * Apr. 2019 -- Jun. 2019: Mathematical information engineering exercise 1B (C language programming) teaching assistant, the University of Tokyo
 
 Awards
 ======
 - Academic award
-  - Jul. 2017: Best paper award, SPWID 2017
+  - Sep. 2021: Student thesis award, operations research society of Japan
+  - Jul. 2017: Best paper award, the third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems
 - Grants and fellowships
   - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
