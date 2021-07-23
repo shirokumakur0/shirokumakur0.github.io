@@ -13,9 +13,9 @@ Education
 ======
 * Apr. 2021 -- present: Ph.D. student, the University of Tokyo
   * Department of mathematical informatics
-* Mar. 2021: M.Sc. in information science and technology, the University of Tokyo
+* Mar. 2021: Master in information science and technology, the University of Tokyo
   * Department of mathematical informatics
-* Mar. 2019: B.Eng. in engineering, the University of Tokyo
+* Mar. 2019: Bachelor in engineering, the University of Tokyo
   * Department of mathematical engineering and information physics
   
 
