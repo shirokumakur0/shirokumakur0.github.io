@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. SIAM Conference on Optimization, Hong Kong (virtual), Jul. 2021.
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. SIAM Conference on Optimization (OP), Hong Kong (virtual), Jul. 2021.
 
 1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. Optimization: modeling and algorithm, Tokyo, Japan (virtual), Mar. 2021.
 
