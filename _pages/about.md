@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, traffic engineering and other fields.
+I am a Ph.D. student at Graduate School of Information Science and Technology, the University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, traffic engineering and other fields.
 
 Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
 
