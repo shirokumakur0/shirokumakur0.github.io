@@ -18,7 +18,7 @@ mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 
 Recent News
 ========
-- Sep. 2021: I received Student thesis award from Operations Research Society of Japan.
+- Sep. 2021: I received Student Thesis Award from Operations Research Society of Japan.
 - May 2021: [My research interview is available on YouTube.](https://www.youtube.com/watch?v=NDrEhYjI5Tk)
 - May 2021: [My research is featured on RIISE, UTokyo.](https://www.riise.u-tokyo.ac.jp/news-vxe-interview-obara/)
 - Apr. 2021: [I have started my Ph.D. program at UTokyo.](https://www.or.mist.i.u-tokyo.ac.jp/members/) [I also work as a JSPS research fellow.](https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf)
