@@ -19,6 +19,13 @@ mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 Recent News
 ========
 <div style="overflow:scroll; width:400px; height:100px">  
+
+<ul>
+  <li>1つめの項目</li>
+  <li>2つめの項目</li>
+  <li>3つめの項目</li>
+</ul>
+  
   - Test </br>
   - Sep. 2021: I received Student Thesis Award from Operations Research Society of Japan. </br>
   - May 2021: [My research interview is available on YouTube.](https://www.youtube.com/watch?v=NDrEhYjI5Tk) </br>
