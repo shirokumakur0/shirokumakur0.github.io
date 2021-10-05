@@ -20,6 +20,8 @@ Recent News
 ========
 <div style="overflow:scroll; width:400px; height:100px">  
   
+  |-
+  
   - Test
   
   - Sep. 2021: I received Student Thesis Award from Operations Research Society of Japan.
