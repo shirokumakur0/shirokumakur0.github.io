@@ -21,6 +21,7 @@ Recent News
 <div style="overflow:scroll; width:400px; height:100px">
 <table style="border:1px solid red>"
 |-
+       
 - Sep. 2021: I received Student Thesis Award from Operations Research Society of Japan.
 - May 2021: [My research interview is available on YouTube.](https://www.youtube.com/watch?v=NDrEhYjI5Tk)
 - May 2021: [My research is featured on RIISE, UTokyo.](https://www.riise.u-tokyo.ac.jp/news-vxe-interview-obara/)
