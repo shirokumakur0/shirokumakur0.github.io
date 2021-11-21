@@ -20,7 +20,7 @@ Recent News
 ========
 <div style="overflow:scroll; width:100%; height:200px">  
   <ul>
-    <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125"> Received Student Thesis Award from Operations Research Society of Japan.</a> </li>
+    <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125">Received Student Thesis Award from Operations Research Society of Japan.</a> </li>
     <li> May 2021: <a href="https://www.youtube.com/watch?v=NDrEhYjI5Tk">My research interview is available on YouTube.</a> </li>
     <li> May 2021: <a href="https://www.riise.u-tokyo.ac.jp/news-vxe-interview-obara/"> My research is featured on RIISE, UTokyo. </a> </li>
     <li> Apr. 2021: <a href="https://www.or.mist.i.u-tokyo.ac.jp/members/"> Started my Ph.D. program at UTokyo. </a> <a href="https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf"> Also working as a JSPS research fellow. </a> </li>
