@@ -23,7 +23,7 @@ Recent News
     <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125"> Received Student Thesis Award from Operations Research Society of Japan.</a> </li>
     <li> May 2021: <a href="https://www.youtube.com/watch?v=NDrEhYjI5Tk">My research interview is available on YouTube.</a> </li>
     <li> May 2021: <a href="https://www.riise.u-tokyo.ac.jp/news-vxe-interview-obara/"> My research is featured on RIISE, UTokyo. </a> </li>
-    <li> Apr. 2021: <a href="https://www.or.mist.i.u-tokyo.ac.jp/members/"> Started my Ph.D. program at UTokyo. </a> <a href="https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf"> Also work as a JSPS research fellow. </a> </li>
+    <li> Apr. 2021: <a href="https://www.or.mist.i.u-tokyo.ac.jp/members/"> Started my Ph.D. program at UTokyo. </a> <a href="https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf"> Also working as a JSPS research fellow. </a> </li>
     <li> Nov. 2020: <a href="https://www.riise.u-tokyo.ac.jp/projects/vxe/"> A research proposal has been selected for a sprouting research in value exchange engineering from RIISE, UTokyo. </a> </li>
     <li> Sep. 2020: <a href="https://arxiv.org/abs/2009.07153"> A new preprint is available on arXiv. </a> </li> 
     <li> Mar. 2020: Opened this website. </li>
