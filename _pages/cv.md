@@ -21,6 +21,8 @@ Education
 
 Work Experience
 ======
+* Dec. 2021 -- present: Takuetsu research assistant
+  * Graduate school of information science and technology, the University of Tokyo
 * Apr. 2021 -- present: Research fellowship for young scientists (DC1)
   * Japan society for the promotion of science
 * Apr. 2021 -- present: Research assistant
@@ -44,7 +46,7 @@ Awards
 - Grants and fellowships
   - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
-  - Jan. 2020 -- present: International graduate program of innovation for intelligent world, the University of Tokyo
+  - Jan. 2020 -- present: Takuetsu research assistant, international graduate program of innovation for intelligent world, the University of Tokyo
 - Others
   - Jun. 2018: 1st prize of freestyle B 70kg class, eastern Japan college rookies wrestling championship
   - Sep. 2017: Top performance and overall 4th place, Bloomberg global investment contest
