@@ -20,6 +20,7 @@ Recent News
 ========
 <div style="overflow:scroll; width:100%; height:200px">  
   <ul>
+    <li> Dec. 2021: One paper has been accepted by SIAM Journal on Optimization.  </li>
     <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125">Received Student Thesis Award from Operations Research Society of Japan.</a> </li>
     <li> May 2021: <a href="https://www.youtube.com/watch?v=NDrEhYjI5Tk">My research interview is available on YouTube.</a> </li>
     <li> May 2021: <a href="https://www.riise.u-tokyo.ac.jp/news-vxe-interview-obara/"> My research is featured on RIISE, UTokyo. </a> </li>
