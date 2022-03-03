@@ -27,7 +27,7 @@ Work Experience
   * Japan society for the promotion of science
 * Apr. 2021 -- present: Research assistant
   * Graduate school of engineering, The University of Tokyo
-* Nov. 2020 -- Mar. 2021: Technical assistant
+* Dec. 2020 -- Mar. 2021: Technical assistant
   * Gradiate school of engineering, The University of Tokyo
 * Dec. 2018 -- Sep. 2020: Research part-timer 2
   * Center for brain science, RIKEN
