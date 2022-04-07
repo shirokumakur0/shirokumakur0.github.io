@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mitsuaki Obara"
+title                    : "Akatsuki Nishioka"
 title_separator          : "-"
-name                     : &name "Mitsuaki Obara"
+name                     : &name "Akatsuki Nishioka"
 description              : &description " student at The University of Tokyo"
 url                      : https://shirokumakur0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
