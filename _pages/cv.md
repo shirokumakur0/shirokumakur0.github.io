@@ -21,6 +21,8 @@ Education
 
 Work Experience
 ======
+<!-- * Jul. 2022 -- present: Technical assistant
+  * Graduate school of information science and technology, The University of Tokyo -->
 * Dec. 2021 -- present: Takuetsu research assistant
   * Graduate school of information science and technology, The University of Tokyo
 * Apr. 2021 -- present: Research fellowship for young scientists (DC1)
