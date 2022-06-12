@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- 1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Elastic Riemannian sequential quadratic optimization method and its application to stable linear system identification with prior knowledge. International Conference on Continuous Optimization (ICCOPT), Bethlehem, USA, Jul. 2022. !--> 
 
-<!-- 1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Riemannian linear system identification with prior knowledge. Seminars on Optimization Methods and Algorithms (SOMA), Tokyo, Japan, Jun. 2022. !--> 
+1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Riemannian linear system identification with prior knowledge. Seminars on Optimization Methods and Algorithms (SOMA), Tokyo, Japan, Jun. 2022.
 
 1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Extension of SQP methods to constrained optimization problems on Riemannian manifolds. The 22nd Conference of
 the International Federation of Operational Research Societies (IFORS), Seoul, Korea (virtual), Aug. 2021. 
