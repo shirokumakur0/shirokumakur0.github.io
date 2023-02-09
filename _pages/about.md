@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. student at Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, traffic engineering and other fields.
 
+Currently, I am on sick leave. 
+
 Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
 
 Contact
