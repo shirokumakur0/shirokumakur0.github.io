@@ -8,7 +8,7 @@ author_profile: true
 
 Preprint
 ======
-1. S. Akiyama*, <ins>M. Obara*</ins>, and Y. Kawase. Optimal design of lottery with cumulative prospect theory. arXiv:2209.00802, Sep. 2022. (* equal contribution) [[arXiv]](https://arxiv.org/abs/2209.00802)
+1. S. Akiyama*, <ins>M. Obara</ins>*, and Y. Kawase. Optimal design of lottery with cumulative prospect theory. arXiv:2209.00802, Sep. 2022. (* equal contribution) [[arXiv]](https://arxiv.org/abs/2209.00802)
 
 1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Stable linear system identification with prior knowledge by elastic Riemannian sequential quadratic optimization. arXiv:2112.14043, Dec. 2021. [[arXiv]](https://arxiv.org/abs/2112.14043)
 
