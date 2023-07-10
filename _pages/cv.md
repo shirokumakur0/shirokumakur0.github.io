@@ -42,7 +42,8 @@ Teaching
 
 Awards
 ======
-- Academic award
+- Academic awards
+  - Dec. 2021: Excellent presentation award, GCL/IIW poster session
   - Sep. 2021: Student thesis award, operations research society of Japan
   - Jul. 2017: Best paper award, the third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems
 - Grants and fellowships
