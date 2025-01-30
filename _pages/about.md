@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
+I am a Ph.D. candidate at Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
 
-Currently, I am on sick leave. 
+Currently, I am working remotely due to health reasons. 
 
 Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
 
@@ -22,6 +22,10 @@ Recent News
 ========
 <div style="overflow:scroll; width:100%; height:200px">  
   <ul>
+    <li> Jan. 2025: <a href="https://arxiv.org/abs/2501.15419"> New preprint ''A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds'' is available on arXiv. </a> </li>
+    <li> Sep. 2023: <a href="https://ieeexplore.ieee.org/document/10258405"> One paper has been accepted by IEEE Transactions on Automatic Control </a>  </li>
+    <li> Apr. 2022: Left work due to Long COVID. </li>
+    <li> Dec. 2021: Received outstanding presentation award at GVL/IIW Ph.D. students poster session. </li>
     <li> Dec. 2021: <a href="https://arxiv.org/abs/2112.14043"> New preprint ''Stable linear system identification with prior knowledge by elastic Riemannian sequential quadratic optimization'' is available on arXiv. </a>  </li>
     <li> Dec. 2021: <a href="https://epubs.siam.org/doi/10.1137/20M1370173">One paper has been accepted by SIAM Journal on Optimization. </a> </li>
     <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125">Received Student Thesis Award from Operations Research Society of Japan.</a> </li>
