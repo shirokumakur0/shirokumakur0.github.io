@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Apr. 2021 -- present: Ph.D. student, The University of Tokyo
+* Apr. 2021 -- present: Ph.D. candidate, The University of Tokyo
   * Department of mathematical informatics
 * Mar. 2021: Master in information science and technology, The University of Tokyo
   * Department of mathematical informatics
