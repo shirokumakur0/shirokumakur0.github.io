@@ -25,7 +25,7 @@ Recent News
     <li> Jan. 2025: <a href="https://arxiv.org/abs/2501.15419"> New preprint ''A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds'' is available on arXiv. </a> </li>
     <li> Sep. 2023: <a href="https://ieeexplore.ieee.org/document/10258405"> One paper has been accepted by IEEE Transactions on Automatic Control. </a>  </li>
     <li> Apr. 2022: Left work due to Long COVID. </li>
-    <li> Dec. 2021: Received excellent presentation award at GVL/IIW Ph.D. students poster session. </li>
+    <li> Dec. 2021: Received excellent presentation award at GCL/IIW Ph.D. students poster session. </li>
     <li> Dec. 2021: <a href="https://arxiv.org/abs/2112.14043"> New preprint ''Stable linear system identification with prior knowledge by elastic Riemannian sequential quadratic optimization'' is available on arXiv. </a>  </li>
     <li> Dec. 2021: <a href="https://epubs.siam.org/doi/10.1137/20M1370173">One paper has been accepted by SIAM Journal on Optimization. </a> </li>
     <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125">Received Student Thesis Award from Operations Research Society of Japan.</a> </li>
