@@ -23,7 +23,7 @@ Recent News
 <div style="overflow:scroll; width:100%; height:200px">  
   <ul>
     <li> Jan. 2025: <a href="https://arxiv.org/abs/2501.15419"> New preprint ''A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds'' is available on arXiv. </a> </li>
-    <li> Apr. 2024: Selected as a recipient research encouragement special allowance based on the research activities during the JSPS DC fellowship. </li>
+    <li> Apr. 2024: Selected as a recipient of research encouragement special allowance based on the research activities during the JSPS DC fellowship. </li>
     <li> Sep. 2023: <a href="https://ieeexplore.ieee.org/document/10258405"> One paper has been accepted by IEEE Transactions on Automatic Control. </a>  </li>
     <li> Apr. 2022: Left work due to Long COVID. </li>
     <li> Dec. 2021: Received excellent presentation award at GCL/IIW Ph.D. students poster session. </li>
