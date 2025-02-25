@@ -48,7 +48,7 @@ Awards
   - Jul. 2017: Best paper award, the third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems
 - Grants and fellowships
   - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science
-    - Apr. 2021 -- present: special allowance for research encouragement funds
+    - Apr. 2024 -- present: Special allowance for research encouragement funds
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
   - Jan. 2020 -- present: Takuetsu research assistant, international graduate program of innovation for intelligent world, The University of Tokyo
 - Others
