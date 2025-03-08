@@ -38,7 +38,7 @@ Teaching
 ======
 * Apr. 2021 -- Sep. 2021: Advanced core in linear algebra teaching assistant, The University of Tokyo
 * Sep. 2019 -- Mar. 2020: Mathematics 1D (ODE, vector analysis, and variational analysis) teaching assistant, The University of Tokyo
-* Apr. 2019 -- Jun. 2019: Mathematical information engineering exercise 1B (C language programming) teaching assistant, The University of Tokyo
+* Apr. 2019 -- Jun. 2019: Exercises in mathematical information engineering 1C (C language programming) teaching assistant, The University of Tokyo
 
 Awards
 ======
