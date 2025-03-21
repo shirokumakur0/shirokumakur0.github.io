@@ -47,8 +47,8 @@ Awards
   - Sep. 2021: Student thesis award, operations research society of Japan
   - Jul. 2017: Best paper award, the third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems
 - Grants and fellowships
+  - Apr. 2024 -- present: Research encouragement special allowance, Japan society for the promotion of science
   - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science
-    - Apr. 2024 -- present: Research encouragement special allowance
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
   - Jan. 2020 -- present: Takuetsu research assistant, international graduate program of innovation for intelligent world, The University of Tokyo
 - Others
