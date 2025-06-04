@@ -10,13 +10,13 @@ author_profile: true
 1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Riemannian linear system identification with prior knowledge. Seminars on Optimization Methods and Algorithms (SOMA), Tokyo, Japan, Jun. 2022.
 
 1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Extension of SQP methods to constrained optimization problems on Riemannian manifolds. The 22nd Conference of
-the International Federation of Operational Research Societies (IFORS), Seoul, Korea (virtual), Aug. 2021. 
+the International Federation of Operational Research Societies (IFORS), Seoul, Korea (online), Aug. 2021. 
 
-1. <ins>M. Obara</ins>, T. Okuno, A. Takeda, and K. Sato. Riemannian sequential quadratic optimization method and its application to linear system identification, Advances in the theory and application of mathematical optimization, Kyoto, Japan (virtual), Aug. 2021.
+1. <ins>M. Obara</ins>, T. Okuno, A. Takeda, and K. Sato. Riemannian sequential quadratic optimization method and its application to linear system identification, Advances in the theory and application of mathematical optimization, Kyoto, Japan (online), Aug. 2021.
 
-1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. SIAM Conference on Optimization (OP), Hong Kong (virtual), Jul. 2021.
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. SIAM Conference on Optimization (OP), Hong Kong (online), Jul. 2021.
 
-1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. Optimization: modeling and algorithm, Tokyo, Japan (virtual), Mar. 2021.
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. Optimization: modeling and algorithm, Tokyo, Japan (online), Mar. 2021.
 
 1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. The 2020 spring national conference of operations research society of Japan, Nara, Japan (cancelled due to COVID-19), Mar. 2020.
 
