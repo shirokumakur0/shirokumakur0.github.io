@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<!-- 1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Elastic Riemannian sequential quadratic optimization method and its application to stable linear system identification with prior knowledge. International Conference on Continuous Optimization (ICCOPT), Bethlehem, USA, Jul. 2022. !--> 
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. An interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds. Research Association of Optimization Theory and Algorithms (RAOTA), Ibaraki, Japan, Jun. 2025.
 
 1. <ins>M. Obara</ins>, K. Sato, T. Okuno, and A. Takeda. Riemannian linear system identification with prior knowledge. Seminars on Optimization Methods and Algorithms (SOMA), Tokyo, Japan, Jun. 2022.
 
