@@ -8,7 +8,8 @@ author_profile: true
 
 Preprint
 ======
-1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds. arXiv:2501.15419, Jan. 2025. [[arXiv]](https://arxiv.org/abs/2501.15419)
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Local near-quadratic convergence of Riemannian interior point methods. arXiv:2505.19724, May 2025. [[arXiv]](https://arxiv.org/abs/2505.19724)
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. A primal-dual interior point trust region method for second-order stationary points of Riemannian inequality-constrained optimization problems. arXiv:2501.15419, May 2025. [[arXiv]](https://arxiv.org/abs/2501.15419)
 1. S. Akiyama\*, <ins>M. Obara</ins>\*, and Y. Kawase. Optimal design of lottery with cumulative prospect theory. arXiv:2209.00822, Sep. 2022. (\*equal contribution) [[arXiv]](https://arxiv.org/abs/2209.00822)
 
 
