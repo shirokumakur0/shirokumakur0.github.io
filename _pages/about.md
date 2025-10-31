@@ -22,6 +22,7 @@ Recent News
 ========
 <div style="overflow:scroll; width:100%; height:200px">  
   <ul>
+    <li> Oct. 2025: <a href="https://arxiv.org/abs/2505.19724"> One paper has been accepted by Journal of Optimization Theory and Applications. </a> </li>
     <li> Jun. 2025: <a href="https://orsj.org/raota/#tsukuba25"> Received Outstanding Presentation Award from Research Association of Optimization Theory and Algorithms. </a> </li>
     <li> May 2025: <a href="https://arxiv.org/abs/2501.15419"> Update the paper entitled “A primal-dual interior point trust region method for second-order stationary points of Riemannian inequality-constrained optimization problems” </a> and <a href="https://arxiv.org/abs/2505.19724"> upload the paper “Local near-quadratic convergence of Riemannian interior point methods” to arXiv. </a>
 <a href="https://arxiv.org/abs/2501.15419v1"> The previous manuscript has been expanded with additional analyses and divided into these two articles.</a> 
