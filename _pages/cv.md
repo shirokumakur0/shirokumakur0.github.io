@@ -25,11 +25,11 @@ Work Experience
   * Graduate school of information science and technology, The University of Tokyo -->
 * Apr. 2025 -- present: Research part-timer 1
   * Center for Advanced Intelligence Project, RIKEN
-* Dec. 2021 -- Mar. 2025: Takuetsu research assistant
+* Dec. 2021 -- Mar. 2025: Excellent research assistant
   * Graduate school of information science and technology, The University of Tokyo
 * Apr. 2021 -- Mar. 2025: Research fellowship for young scientists (DC1)
   * Japan society for the promotion of science
-* Apr. 2021 -- present: Research assistant
+* Apr. 2021 -- Sep. 2022: Research assistant
   * Graduate school of engineering, The University of Tokyo
 * Dec. 2020 -- Mar. 2021: Technical assistant
   * Gradiate school of engineering, The University of Tokyo
