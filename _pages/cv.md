@@ -60,5 +60,6 @@ Awards
 
 Others
 ======
+<!-- * Apr. 2022 -- Mar. 2024: Took a leave of absence due to Long COVID -->
 * Sep. 2016 -- Dec. 2018: Undergraduate research opportunity program
   * Institute of industrial science, The University of Tokyo
