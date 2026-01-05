@@ -25,7 +25,7 @@ Work Experience
   * Graduate school of information science and technology, The University of Tokyo -->
 * Apr. 2025 -- present: Research part-timer 1
   * Center for Advanced Intelligence Project, RIKEN
-* Dec. 2021 -- Mar. 2025: Excellent research assistant
+* Dec. 2021 -- Mar. 2025: Takuetsu (excellent) research assistant
   * Graduate school of information science and technology, The University of Tokyo
 * Apr. 2021 -- Mar. 2025: Research fellowship for young scientists (DC1)
   * Japan society for the promotion of science
@@ -53,7 +53,7 @@ Awards
   - Apr. 2024 -- Mar. 2025: Research encouragement special allowance, Japan society for the promotion of science
   - Apr. 2021 -- Mar. 2025: Research fellowship for young scientists (DC1), Japan society for the promotion of science
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
-  - Jan. 2020 -- Mar. 2025: Takuetsu research assistant, international graduate program of innovation for intelligent world, The University of Tokyo
+  - Jan. 2020 -- Mar. 2025: Takuetsu (excellent) research assistant, international graduate program of innovation for intelligent world, The University of Tokyo
 - Others
   - Jun. 2018: 1st prize of freestyle B 70kg class, eastern Japan college rookies wrestling championship
   - Sep. 2017: Top performance and overall 4th place, Bloomberg global investment contest
