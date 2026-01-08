@@ -20,7 +20,6 @@ mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 
 News
 ========
-<!-- <div style="overflow:scroll; width:100%; height:200px">   -->
 <div class="news-scroll">
   <ul>
     <li> Oct. 2025: <a href="https://arxiv.org/abs/2505.19724"> One paper has been accepted by Journal of Optimization Theory and Applications. </a> </li>
