@@ -1,0 +1,5 @@
+.news-scroll {
+  overflow: auto;
+  width: 100%;
+  max-height: clamp(160px, 30vh, 420px);
+}
