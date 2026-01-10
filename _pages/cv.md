@@ -11,19 +11,16 @@ redirect_from:
 
 Education
 ======
-* Apr. 2021 -- present: Ph.D. Candidate, The University of Tokyo
+* Apr. 2021 -- Present: Ph.D. Candidate, The University of Tokyo
   * Department of Mathematical Informatics
 * Mar. 2021: Master of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
 * Mar. 2019: Bachelor of Engineering, The University of Tokyo
   * Department of Mathematical Engineering and Information Physics
-  
 
 Work Experience
 ======
-<!-- * Jul. 2022 -- present: Technical assistant
-  * Graduate School of Information Science and Technology, The University of Tokyo -->
-* Apr. 2025 -- present: Part-time Researcher
+* Apr. 2025 -- Present: Part-time Researcher
   * Center for Advanced Intelligence Project (AIP), RIKEN
 * Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant
   * Graduate School of Information Science and Technology, The University of Tokyo
@@ -60,6 +57,6 @@ Awards
 
 Others
 ======
-<!-- * Apr. 2022 -- Mar. 2024: Took a leave of absence due to Long COVID -->
+<!-- * Apr. 2022 -- Mar. 2024: Leave of absence due to Long COVID -->
 * Sep. 2016 -- Dec. 2018: Undergraduate Research Opportunity Program
   * Institute of Industrial Science, The University of Tokyo
