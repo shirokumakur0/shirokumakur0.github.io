@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 * Apr. 2025 -- Present: Part-time Researcher I
-  * Center for Advanced Intelligence Project (AIP), RIKEN
+  * Center for Advanced Intelligence Project, RIKEN
 * Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant
   * Graduate School of Information Science and Technology, The University of Tokyo
 * Apr. 2021 -- Mar. 2025: Research Fellowship for Young Scientists (DC1)
@@ -35,9 +35,9 @@ Work Experience
   
 Teaching
 ======
-* Apr. 2021 -- Sep. 2021: Advanced Core in Linear Algebra Teaching Assistant, The University of Tokyo
-* Sep. 2019 -- Mar. 2020: Mathematics 1D (ODEs, Vector Analysis, and Variational Analysis) Teaching Assistant, The University of Tokyo
-* Apr. 2019 -- Jun. 2019: Exercises in Mathematical Information Engineering 1C (C Programming) Teaching Assistant, The University of Tokyo
+* Apr. 2021 -- Sep. 2021: Teaching Assistant, Advanced Core in Linear Algebra, The University of Tokyo
+* Sep. 2019 -- Mar. 2020: Teaching Assistant, Mathematics 1D (ODEs, Vector Analysis, and Variational Analysis), The University of Tokyo
+* Apr. 2019 -- Jun. 2019: Teaching Assistant, Exercises in Mathematical Information Engineering 1C (C Programming) The University of Tokyo
 
 Awards
 ======
@@ -52,8 +52,8 @@ Awards
   - Nov. 2020 -- present: Sprouting Research RA in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo
   - Jan. 2020 -- Mar. 2025: Takuetsu Research Assistant, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 - Others
-  - Jun. 2018: 1st Prize of Freestyle B 70 kg Class, Eastern Japan College Rookie Wrestling Championship
-  - Sep. 2017: Top Performerance and 4th Overall Place, Bloomberg Global Investment Contest
+  - Jun. 2018: First Prize of Freestyle B70kg Division, Eastern Japan Collegiate Rookie Wrestling Championship
+  - Sep. 2017: Top Performance and 4th Overall Place, Bloomberg Global Investment Contest
 
 Others
 ======
