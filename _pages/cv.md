@@ -49,7 +49,7 @@ Awards
 - Grants and fellowships
   - Apr. 2024 -- Mar. 2025: Research Encouragement Special Allowance, Japan Society for the Promotion of Science
   - Apr. 2021 -- Mar. 2025: Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science
-  - Nov. 2020 -- present: Sprouting Research RA in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo
+  - Nov. 2020 -- Sep. 2022: Sprouting Research RA in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo
   - Jan. 2020 -- Mar. 2025: Takuetsu Research Assistant, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 - Others
   - Jun. 2018: First Prize of Freestyle B70kg Division, Eastern Japan Collegiate Rookie Wrestling Championship
