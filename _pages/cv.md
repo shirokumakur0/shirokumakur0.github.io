@@ -13,10 +13,10 @@ Education
 ======
 * Apr. 2021 -- present: Ph.D. Candidate, The University of Tokyo
   * Department of Mathematical Informatics
-* Mar. 2021: M.S. in Information Science and Technology, The University of Tokyo
+* Mar. 2021: Master of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
-* Mar. 2019: B.Eng. in Engineering, The University of Tokyo
-  * Department of mathematical engineering and information physics
+* Mar. 2019: Bachelor of Engineering, The University of Tokyo
+  * Department of Mathematical Engineering and Information Physics
   
 
 Work Experience
@@ -25,13 +25,13 @@ Work Experience
   * Graduate School of Information Science and Technology, The University of Tokyo -->
 * Apr. 2025 -- present: Part-time Researcher
   * Center for Advanced Intelligence Project (AIP), RIKEN
-* Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant (Excellent)
+* Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant
   * Graduate School of Information Science and Technology, The University of Tokyo
 * Apr. 2021 -- Mar. 2025: Research Fellowship for Young Scientists (DC1)
-  * Japan Society for the Promotion of Science (JSPS)
-* Apr. 2021 -- Sep. 2022: Research assistant
+  * Japan Society for the Promotion of Science
+* Apr. 2021 -- Sep. 2022: Research Assistant
   * Graduate School of Engineering, The University of Tokyo
-* Dec. 2020 -- Mar. 2021: Technical assistant
+* Dec. 2020 -- Mar. 2021: Technical Assistant
   * Graduate School of Engineering, The University of Tokyo
 * Dec. 2018 -- Sep. 2020: Part-time Researcher
   * Center for Brain Science, RIKEN
@@ -45,18 +45,18 @@ Teaching
 Awards
 ======
 - Academic awards
-  - Jun. 2025: Outstanding Presentation Award, Research Association of Optimization Theory and Algorithms (RAOTA)
-  - Dec. 2021: Excellent Presentation Award, GCL/IIW poster session
-  - Sep. 2021: Student Thesis Award, Operations Research Society of Japan (ORSJ)
-  - Jul. 2017: Best Paper Award, the Third International Conference on smart portable, wearable, implantable, and disability-oriented devices and systems
+  - Jun. 2025: Outstanding Presentation Award, Research Association of Optimization Theory and Algorithms
+  - Dec. 2021: Excellent Presentation Award, GCL/IIW Poster Session
+  - Sep. 2021: Student Thesis Award, Operations Research Society of Japan
+  - Jul. 2017: Best Paper Award, the Third International Conference on Smart Portable, Wearable, Implantable, and Disability-Oriented Devices and Systems
 - Grants and fellowships
-  - Apr. 2024 -- Mar. 2025: Research Encouragement Special Allowance, Japan Society for the Promotion of Science (JSPS)
-  - Apr. 2021 -- Mar. 2025: Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science (JSPS)
-  - Nov. 2020 -- present: Sprouting Research RA in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering (RIISE), The University of Tokyo
-  - Jan. 2020 -- Mar. 2025: Takuetsu Research Assistant (Excellent), International Graduate Program of Innovation for Intelligent World (IIW), The University of Tokyo
+  - Apr. 2024 -- Mar. 2025: Research Encouragement Special Allowance, Japan Society for the Promotion of Science
+  - Apr. 2021 -- Mar. 2025: Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science
+  - Nov. 2020 -- present: Sprouting Research RA in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo
+  - Jan. 2020 -- Mar. 2025: Takuetsu Research Assistant, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 - Others
   - Jun. 2018: 1st prize of freestyle B 70 kg class, Eastern Japan College Rookie Wrestling Championship
-  - Sep. 2017: Top Performer and 4th Overall Place, Bloomberg Global Investment Contest
+  - Sep. 2017: Top Performerance and 4th Overall Place, Bloomberg Global Investment Contest
 
 Others
 ======
