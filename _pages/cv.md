@@ -52,7 +52,7 @@ Awards
   - Nov. 2020 -- present: Sprouting Research RA in Value Exchange Engineering, Research Institute for an Inclusive Society through Engineering, The University of Tokyo
   - Jan. 2020 -- Mar. 2025: Takuetsu Research Assistant, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 - Others
-  - Jun. 2018: 1st prize of freestyle B 70 kg class, Eastern Japan College Rookie Wrestling Championship
+  - Jun. 2018: 1st Prize of Freestyle B 70 kg Class, Eastern Japan College Rookie Wrestling Championship
   - Sep. 2017: Top Performerance and 4th Overall Place, Bloomberg Global Investment Contest
 
 Others
