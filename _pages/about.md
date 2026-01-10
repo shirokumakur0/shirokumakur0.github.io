@@ -34,7 +34,7 @@ News
     <li> Dec. 2021: <a href="https://epubs.siam.org/doi/10.1137/20M1370173">One paper was accepted by SIAM Journal on Optimization.</a></li>
     <li> Sep. 2021: <a href="https://orsj.org/?page_id=1125">Received the Student Thesis Award from the Operations Research Society of Japan.</a></li>
     <li> May 2021: <a href="https://www.youtube.com/watch?v=NDrEhYjI5Tk">My research interview is available on YouTube.</a></li>
-    <li> May 2021: <a href="https://www.riise.u-tokyo.ac.jp/news/news-vxe-interview-obara>My research is featured on RIISE, UTokyo.</a></li>
+    <li> May 2021: <a href="https://www.riise.u-tokyo.ac.jp/news/news-vxe-interview-obara"> My research is featured on RIISE, UTokyo.</a></li>
     <li> Apr. 2021: <a href="https://www.or.mist.i.u-tokyo.ac.jp/members/">Started my Ph.D. program at the University of Tokyo. </a> <a href="https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf">Also a JSPS Research Fellow (DC1).</a></li>
     <li> Nov. 2020: <a href="https://www.riise.u-tokyo.ac.jp/research_programs/vxe/">A research proposal was selected for Sprouting Research in Value Exchange Engineering at RIISE, UTokyo.</a></li>
     <li> Sep. 2020: <a href="https://arxiv.org/abs/2009.07153">New preprint “Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds” is available on arXiv.</a></li> 
