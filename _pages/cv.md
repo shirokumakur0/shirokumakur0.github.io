@@ -20,7 +20,7 @@ Education
 
 Work Experience
 ======
-* Apr. 2025 -- Present: Part-time Researcher
+* Apr. 2025 -- Present: Part-time Researcher I
   * Center for Advanced Intelligence Project (AIP), RIKEN
 * Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant
   * Graduate School of Information Science and Technology, The University of Tokyo
@@ -30,7 +30,7 @@ Work Experience
   * Graduate School of Engineering, The University of Tokyo
 * Dec. 2020 -- Mar. 2021: Technical Assistant
   * Graduate School of Engineering, The University of Tokyo
-* Dec. 2018 -- Sep. 2020: Part-time Researcher
+* Dec. 2018 -- Sep. 2020: Part-time Researcher II
   * Center for Brain Science, RIKEN
   
 Teaching
