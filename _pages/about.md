@@ -38,7 +38,7 @@ News
     <li> Apr. 2021: <a href="https://www.or.mist.i.u-tokyo.ac.jp/members/">Started my Ph.D. program at the University of Tokyo. </a> <a href="https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r03/dc1/r3_dc1.pdf">Also a JSPS Research Fellow (DC1).</a></li>
     <li> Nov. 2020: <a href="https://www.riise.u-tokyo.ac.jp/research_programs/vxe/">A research proposal was selected for Sprouting Research in Value Exchange Engineering at RIISE, UTokyo.</a></li>
     <li> Sep. 2020: <a href="https://arxiv.org/abs/2009.07153">New preprint “Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds” is available on arXiv.</a></li> 
-    <li> Mar. 2020: Launched this website.</li>
+    <li> Mar. 2020: Launched the website.</li>
   </ul>
 </div>
 
