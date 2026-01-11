@@ -20,7 +20,7 @@ Education
 
 Work Experience
 ======
-* Apr. 2025 -- Present: Part-time Researcher I
+* Apr. 2025 -- Present: Research Part-time Worker I
   * Center for Advanced Intelligence Project, RIKEN
 * Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant
   * Graduate School of Information Science and Technology, The University of Tokyo
@@ -30,14 +30,14 @@ Work Experience
   * Graduate School of Engineering, The University of Tokyo
 * Dec. 2020 -- Mar. 2021: Technical Assistant
   * Graduate School of Engineering, The University of Tokyo
-* Dec. 2018 -- Sep. 2020: Part-time Researcher II
+* Dec. 2018 -- Sep. 2020: Research Part-time Worker II
   * Center for Brain Science, RIKEN
   
 Teaching
 ======
 * Apr. 2021 -- Sep. 2021: Teaching Assistant, Advanced Core in Linear Algebra, The University of Tokyo
-* Sep. 2019 -- Mar. 2020: Teaching Assistant, Mathematics 1D (ODEs, Vector Analysis, and Variational Analysis), The University of Tokyo
-* Apr. 2019 -- Jun. 2019: Teaching Assistant, Exercises in Mathematical Information Engineering 1C (C Programming) The University of Tokyo
+* Sep. 2019 -- Mar. 2020: Teaching Assistant, Mathematics 1D, The University of Tokyo
+* Apr. 2019 -- Jun. 2019: Teaching Assistant, Exercises in Mathematical Information Engineering 1C, The University of Tokyo
 
 Awards
 ======
@@ -45,7 +45,7 @@ Awards
   - Jun. 2025: Outstanding Presentation Award, Research Association of Optimization Theory and Algorithms
   - Dec. 2021: Excellent Presentation Award, GCL/IIW Poster Session
   - Sep. 2021: Student Thesis Award, Operations Research Society of Japan
-  - Jul. 2017: Best Paper Award, the Third International Conference on Smart Portable, Wearable, Implantable, and Disability-Oriented Devices and Systems
+  - Jul. 2017: Best Paper Award, The 3rd International Conference on Smart Portable, Wearable, Implantable, and Disability-Oriented Devices and Systems
 - Grants and fellowships
   - Apr. 2024 -- Mar. 2025: Research Encouragement Special Allowance, Japan Society for the Promotion of Science
   - Apr. 2021 -- Mar. 2025: Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science
