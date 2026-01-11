@@ -17,7 +17,7 @@ author_profile: true
 
 1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. Optimization: Modeling and Algorithms, Tokyo, Japan (online), Mar. 2021.
 
-1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. The 2020 spring national conference of operations research society of Japan, Nara, Japan (cancelled due to COVID-19), Mar. 2020.
+1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. The 2020 Spring National Conference of Operations Research Society of Japan, Nara, Japan (cancelled due to COVID-19), Mar. 2020.
 
 1. <ins>M. Obara</ins>, T. Kashiyama, and Y. Sekimoto. Deep reinforcement learning approach for train rescheduling utilizing graph theory. The 39th Conference of Japan Society of Traffic Engineers, Tokyo, Japan, Aug. 2019.
 
