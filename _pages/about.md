@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
+I am a Ph.D. candidate at the Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
 
 Currently, I am working remotely for health reasons.
 
