@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mitsuaki Obara | 小原光暁"
 title_separator          : "-"
 name                     : &name "Mitsuaki Obara"
-description              : &description " Ph.D. candidate at The University of Tokyo"
+description              : &description "Researcher"
 url                      : https://shirokumakur0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shirokumakur0/shirokumakur0.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mitsuaki Obara"
   avatar           : "IMG_1069.jpg"
-  bio              : "Ph.D. candidate at The University of Tokyo"
+  bio              : "Researcher in mathematical optimization"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.jp/citations?hl=ja&user=T5QdZ80AAAAJ"
   email            :
   researchgate     : https://www.researchgate.net/profile/Mitsuaki-Obara
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mitsuaki-obara"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3731-6776"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
