@@ -17,7 +17,12 @@ I am a researcher at NTT, Inc. My research interests include mathematical optimi
 Contact
 ========
 mitsuaki.obara [at] ntt.com
-<del> mitsuaki_obara [at] mist.i.u-tokyo.ac.jp </del>
+
+<details>
+  <summary> former </summary>
+  <del>mitsuaki_obara [at] mist.i.u-tokyo.ac.jp</del>
+</details>
+
 <!-- obara-mitsuaki679@g.ecc.u-tokyo.ac.jp -->
 
 
