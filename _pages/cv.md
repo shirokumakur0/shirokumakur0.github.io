@@ -13,7 +13,7 @@ Education
 ======
 * Mar. 2026: Ph.D. of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
-  * Supervisor: 
+  * Supervisor: Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html) 
 * Mar. 2021: Master of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
 * Mar. 2019: Bachelor of Engineering, The University of Tokyo
@@ -21,7 +21,9 @@ Education
 
 Work Experience
 ======
-* Apr. 2025 -- Present: Research Part-time Worker I
+* Apr. 2026 -- Present: Researcher
+  * Communication Science Laboratories, NTT, Inc.
+* Apr. 2025 -- Mar.2026: Research Part-time Worker I
   * Center for Advanced Intelligence Project, RIKEN
 * Dec. 2021 -- Mar. 2025: Takuetsu Research Assistant
   * Graduate School of Information Science and Technology, The University of Tokyo
