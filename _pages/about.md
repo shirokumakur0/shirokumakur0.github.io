@@ -18,7 +18,10 @@ My research interests include mathematical optimization and its applications to 
 Contact
 ========
 mitsuaki.obara [at] ntt.com<br>
-<del>mitsuaki_obara [at] mist.i.u-tokyo.ac.jp</del>
+<details>
+  <summary> [former email] </summary>
+  <del>mitsuaki_obara [at] mist.i.u-tokyo.ac.jp</del>
+</details>
 
 <!--
 <details>
