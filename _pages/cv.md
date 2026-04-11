@@ -13,11 +13,13 @@ Education
 ======
 * Mar. 2026: Doctor of Philosophy in Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
-  * Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html) 
+  * Supervisor: [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html) 
 * Mar. 2021: Master of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
+  * Supervisor: [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html) 
 * Mar. 2019: Bachelor of Engineering, The University of Tokyo
   * Department of Mathematical Engineering and Information Physics
+  * Supervisor: [Hiroshi Hirai](https://www.math.nagoya-u.ac.jp/~hirai.hiroshi/index.html) 
 
 Work Experience
 ======
