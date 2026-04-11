@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Apr. 2021 -- Present: Ph.D. Candidate, The University of Tokyo
+* Mar. 2026: Ph.D. of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
+  * Supervisor: 
 * Mar. 2021: Master of Information Science and Technology, The University of Tokyo
   * Department of Mathematical Informatics
 * Mar. 2019: Bachelor of Engineering, The University of Tokyo
