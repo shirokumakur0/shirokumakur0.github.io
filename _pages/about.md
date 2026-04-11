@@ -8,20 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Graduate School of Information Science and Technology, The University of Tokyo. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
+I am a researcher at NTT, Inc. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
 
-Currently, I am working remotely for health reasons.
+<!-- Currently, I am working remotely for health reasons. -->
 
-Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
+<!-- Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html) -->
 
 Contact
 ========
-mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
+mitsuaki.obara [at] ntt.com
+<del> mitsuaki_obara [at] mist.i.u-tokyo.ac.jp </del>
+<!-- obara-mitsuaki679@g.ecc.u-tokyo.ac.jp -->
+
 
 News
 ========
 <div class="news-scroll">
   <ul>
+    <li> Apr. 2026: Joined Ntt, Inc. as a researcher.</a></li>
+    <li> Mar. 2026: Received a Ph.D. from the University of Tokyo.</li>
     <li> Oct. 2025: <a href="https://arxiv.org/abs/2505.19724">One paper has been accepted for publication in the Journal of Optimization Theory and Applications.</a></li>
     <li> Jun. 2025: <a href="https://orsj.org/raota/#tsukuba25">Received the Outstanding Presentation Award from the Research Association of Optimization Theory and Algorithms.</a></li>
     <li> May 2025: <a href="https://arxiv.org/abs/2501.15419">Updated the paper entitled “A primal-dual interior point trust region method for second-order stationary points of Riemannian inequality-constrained optimization problems”</a> and <a href="https://arxiv.org/abs/2505.19724">uploaded “Local near-quadratic convergence of Riemannian interior point methods” to arXiv</a>. <a href="https://arxiv.org/abs/2501.15419v1">The previous manuscript was expanded with additional analyses and split into these two articles.</a></li>
