@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at NTT, Inc. My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
+I am a researcher at Learning and Intelligent Systems Research Group, Innovative Communication Laboratory, NTT Communication Science Laboratories.
+My research interests include mathematical optimization and its applications to control, machine learning, and other fields.
 
 <!-- Currently, I am working remotely for health reasons. -->
 
