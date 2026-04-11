@@ -24,16 +24,16 @@ mitsuaki.obara [at] ntt.com
 <!--
 <details>
   <summary> former </summary>
-  
 </details>
- obara-mitsuaki679@g.ecc.u-tokyo.ac.jp -->
+ obara-mitsuaki679@g.ecc.u-tokyo.ac.jp
+ -->
 
 
 News
 ========
 <div class="news-scroll">
   <ul>
-    <li> Apr. 2026: Joined NTT, Inc. as a researcher.</a></li>
+    <li> Apr. 2026: Joined NTT, Inc. as a researcher. </li>
     <li> Mar. 2026: Received a Ph.D. from the University of Tokyo.</li>
     <li> Oct. 2025: <a href="https://arxiv.org/abs/2505.19724">One paper has been accepted for publication in the Journal of Optimization Theory and Applications.</a></li>
     <li> Jun. 2025: <a href="https://orsj.org/raota/#tsukuba25">Received the Outstanding Presentation Award from the Research Association of Optimization Theory and Algorithms.</a></li>
