@@ -32,15 +32,15 @@ News
 ========
 <div class="news-scroll">
   <ul>
-    <li> Apr. 2026: <a href="https://arxiv.org/abs/2209.00822">One paper has been accepted for publication in ACM Transactions on Economics and Computation.</a></li>
+    <li> Apr. 2026: <a href="https://arxiv.org/abs/2209.00822">One paper has been accepted by ACM Transactions on Economics and Computation.</a></li>
     <li> Apr. 2026: <a href="https://www.rd.ntt/e/cs/team_project/icl/ls/">Joined NTT, Inc. as a researcher.</a></li>
     <li> Mar. 2026: Received a Ph.D. from The University of Tokyo.</li>
-    <li> Oct. 2025: <a href="https://link.springer.com/article/10.1007/s10957-025-02885-0">One paper has been accepted for publication in the Journal of Optimization Theory and Applications.</a></li>
+    <li> Oct. 2025: <a href="https://link.springer.com/article/10.1007/s10957-025-02885-0">One paper has been accepted by Journal of Optimization Theory and Applications.</a></li>
     <li> Jun. 2025: <a href="https://orsj.org/raota/#tsukuba25">Received the Outstanding Presentation Award from the Research Association of Optimization Theory and Algorithms.</a></li>
     <li> May 2025: <a href="https://arxiv.org/abs/2501.15419">Updated the paper entitled “A primal-dual interior point trust region method for second-order stationary points of Riemannian inequality-constrained optimization problems”</a> and <a href="https://arxiv.org/abs/2505.19724">uploaded “Local near-quadratic convergence of Riemannian interior point methods” to arXiv</a>. <a href="https://arxiv.org/abs/2501.15419v1">The previous manuscript was expanded with additional analyses and split into these two articles.</a></li>
     <li> Jan. 2025: <a href="https://arxiv.org/abs/2501.15419">New preprint “A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds” is available on arXiv.</a></li>
     <li> Apr. 2024: Selected as a recipient of the Research Encouragement Special Allowance based on research activities during the JSPS DC fellowship.</li>
-    <li> Sep. 2023: <a href="https://ieeexplore.ieee.org/document/10258405">One paper has been accepted for publication in IEEE Transactions on Automatic Control.</a></li>
+    <li> Sep. 2023: <a href="https://ieeexplore.ieee.org/document/10258405">One paper has been accepted by IEEE Transactions on Automatic Control.</a></li>
     <li> Apr. 2022: Took a leave of absence due to suspected Long COVID.</li>
     <li> Dec. 2021: Received the Excellent Presentation Award at the GCL/IIW Ph.D. Student Poster Session.</li>
     <li> Dec. 2021: <a href="https://arxiv.org/abs/2112.14043">New preprint “Stable linear system identification with prior knowledge by elastic Riemannian sequential quadratic optimization” is available on arXiv.</a></li>
