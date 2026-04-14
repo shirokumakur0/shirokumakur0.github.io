@@ -33,7 +33,7 @@ News
 <div class="news-scroll">
   <ul>
     <li> Apr. 2026: <a href="https://www.rd.ntt/e/cs/team_project/icl/ls/">Joined NTT, Inc. as a researcher.</a></li>
-    <li> Mar. 2026: Received a Ph.D. from the University of Tokyo.</li>
+    <li> Mar. 2026: Received a Ph.D. from The University of Tokyo.</li>
     <li> Oct. 2025: <a href="https://arxiv.org/abs/2505.19724">One paper has been accepted for publication in the Journal of Optimization Theory and Applications.</a></li>
     <li> Jun. 2025: <a href="https://orsj.org/raota/#tsukuba25">Received the Outstanding Presentation Award from the Research Association of Optimization Theory and Algorithms.</a></li>
     <li> May 2025: <a href="https://arxiv.org/abs/2501.15419">Updated the paper entitled “A primal-dual interior point trust region method for second-order stationary points of Riemannian inequality-constrained optimization problems”</a> and <a href="https://arxiv.org/abs/2505.19724">uploaded “Local near-quadratic convergence of Riemannian interior point methods” to arXiv</a>. <a href="https://arxiv.org/abs/2501.15419v1">The previous manuscript was expanded with additional analyses and split into these two articles.</a></li>
