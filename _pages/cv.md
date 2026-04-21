@@ -44,6 +44,13 @@ Teaching
 * Sep. 2019 -- Mar. 2020: Teaching Assistant, Mathematics 1D, The University of Tokyo
 * Apr. 2019 -- Jun. 2019: Teaching Assistant, Exercises in Mathematical Information Engineering 1C, The University of Tokyo
 
+<!-- Professional Services
+======
+- Referees
+  SIAM Journal on Optimization, Journal of the Operations Research Society of Japan
+* 2025: 2 journals
+-->
+  
 Awards
 ======
 - Academic awards
