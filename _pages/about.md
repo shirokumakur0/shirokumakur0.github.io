@@ -32,6 +32,7 @@ News
 ========
 <div class="news-scroll">
   <ul>
+    <li> May 2026: <a href="https://arxiv.org/abs/2501.15419">One paper has been accepted by SIAM Journal on Optimization.</a></li>
     <li> Apr. 2026: <a href="https://arxiv.org/abs/2209.00822">One paper has been accepted by ACM Transactions on Economics and Computation.</a></li>
     <li> Apr. 2026: <a href="https://www.rd.ntt/e/cs/team_project/icl/ls/">Joined NTT, Inc. as a researcher.</a></li>
     <li> Mar. 2026: Received a Ph.D. from The University of Tokyo.</li>
